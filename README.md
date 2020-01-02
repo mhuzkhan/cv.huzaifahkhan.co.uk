@@ -7,6 +7,7 @@ I am making my CV Digital so I no longer have to provide a physical copy of my C
 ### Technology Stack
 1. HTML
 2. CSS
+3. JavaScript
 
 ### Design Philosophy
 1. Responsive Design
@@ -16,4 +17,4 @@ I am making my CV Digital so I no longer have to provide a physical copy of my C
 ### Deployment Philosophy
 1. AWS S3 Website
 2. AWS CloudFront
-3. AWS Route53
+3. NameCheap DNS
