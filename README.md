@@ -7,7 +7,7 @@ I am making my CV Digital so I no longer have to provide a physical copy of my C
 ### Technology Stack
 1. HTML
 2. CSS
-3. JavaScript
+3. JavaScript via Scripts
 
 ### Design Philosophy
 1. Responsive Design
